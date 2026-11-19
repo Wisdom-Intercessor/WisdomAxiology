@@ -14,13 +14,22 @@
 6. **Accountability & Appeals**
 
 ### 1.2 Shared architecture services
-
 - **Registry:** canonical concepts, identifiers, definitions, aliases, status, version, owner.
 - **Traceability:** links between concepts, requirements, decisions, risks, tests, and operational adopters.
 - **Change service:** versioning, deprecation, impact analysis, migration notes, and history.
 - **Inter-root interfaces:** documented contracts; no hidden assumptions or duplicated authority.
 
-## 2. Interface contract
+## 2. Root ownership and interfaces
+
+- **WisdomOntology** owns canonical semantic definitions, entity and relation models.
+- **WisdomEpistemology** owns claim/evidence evaluation, provenance, uncertainty and knowledge revision.
+- **WisdomAxiology** owns values, rights, ethical criteria, trade-offs and impact evaluation.
+- **WisdomTeleology** owns purpose hierarchy, ultimate ends, mission/vision, long-range direction and purpose coherence.
+- **WisdomPraxeology** owns context-specific goals, deliberation, decisions, authorization, plans, execution, outcomes and feedback.
+
+WisdomAxiology provides normative criteria and impact assessments. It does not own factual adjudication, canonical semantic definitions, ultimate purpose-setting, or operational decision/action execution. Operational appeal and review workflows belong to Praxeology and the relevant operational branch; normative grounds and rights remain within Axiology.
+
+## 3. Interface contract
 
 Each root publishes a stable, versioned vocabulary and machine-readable registry when practical. Consumers must reference canonical identifiers, record the version used, and avoid copying definitions into conflicting local variants. Interface changes are announced through change notes and compatibility review.
 
@@ -33,7 +42,6 @@ WisdomCore remains the meta-layer and architecture authority for shared system c
 The eight operational repositories may use this root's concepts as appropriate. Each adoption must identify the relevant concept or requirement and specify its local implementation, owner, evidence, and any justified deviation. Root concepts are not presumed to be implemented merely because they are documented.
 
 ## 6. Realm mapping
-
 - **Wis:** human interpretation, deliberation, personal knowledge and agency where relevant.
 - **Dom:** digital representation, metadata, interfaces, records, tools and automation.
 - **Land:** external reality, environment, communities, physical systems and outcomes.
@@ -41,7 +49,6 @@ The eight operational repositories may use this root's concepts as appropriate. 
 These are contextual mappings, not a forced one-to-one partition of this root's concepts.
 
 ## 7. Quality attributes
-
 - Conceptual coherence and unambiguous definitions.
 - Traceability and provenance.
 - Version and compatibility discipline.
