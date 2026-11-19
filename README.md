@@ -21,6 +21,8 @@ This repository is one of four foundational roots under **WisdomCore (Layer 0)**
 - اعتبار معرفتی ادعا (WisdomEpistemology)
 - طراحی و اجرای عمل (WisdomPraxeology)
 
+- Purpose hierarchy and ultimate ends (WisdomTeleology)
+- Operational deliberation, authorization and execution (WisdomPraxeology)
 ## Repository status
 
 - Status: **Foundation baseline — v0.1.0 proposal**
