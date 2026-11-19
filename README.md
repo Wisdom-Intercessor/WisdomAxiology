@@ -6,7 +6,7 @@ The foundational framework for values, ethical commitments, evaluative criteria,
 
 ## Position in the architecture
 
-This repository is one of four foundational roots under **WisdomCore (Layer 0)**. It contributes to the Wisdom Intercessor trunk and informs all eight operational branches and the Wis · Dom · Land realm experience. It is not an operational branch or a standalone commercial product.
+This repository is one of **five approved foundational roots** under **WisdomCore (Layer 0)**: WisdomOntology, WisdomEpistemology, WisdomAxiology, WisdomTeleology, and WisdomPraxeology. It contributes to the Wisdom Intercessor trunk and informs all eight operational branches and the Wis · Dom · Land realm experience. It is not an operational branch or a standalone commercial product.
 
 ## Scope
 - ارزش و ضد ارزش
@@ -19,12 +19,10 @@ This repository is one of four foundational roots under **WisdomCore (Layer 0)**
 ## Boundaries
 - مدل وجود و طبقه‌بندی (WisdomOntology)
 - اعتبار معرفتی ادعا (WisdomEpistemology)
-- طراحی و اجرای عمل (WisdomPraxeology)
+- Purpose hierarchy, ultimate ends and mission direction (WisdomTeleology)
+- طراحی و اجرای عمل، تصمیم و چرخه اقدام (WisdomPraxeology)
 
-- Purpose hierarchy and ultimate ends (WisdomTeleology)
-- Operational deliberation, authorization and execution (WisdomPraxeology)
 ## Repository status
-
 - Status: **Foundation baseline — v0.1.0 proposal**
 - Document ID: **WI-FA-001**
 - Implementation maturity: **M0 — defined; implementation not yet validated**
